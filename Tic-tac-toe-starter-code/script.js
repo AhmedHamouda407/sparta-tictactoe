@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
 
-      // tic.squares[i].style.backgroundColor = 'red';
+    
     });
 
   }
